@@ -1,17 +1,17 @@
 #EXTM3U refresh="86400"
 #EXTINF:-1 group-title="filmscollection1"
 
-#EXTINF:-1 tvg-logo="", Троя
-https://calypso.tortuga.tw/content/stream/films/troy.2004.bdrip.1080p.h.265.directors.cut_11885/hls/1080/index.m3u8
-#EXTINF:-1 tvg-logo="", Перл-Харбор
+#EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/261919/w1500_51808982.jpg", Троя
+https://s10.hdvbua.pro/media/content/stream/films/troy_2004_dc_bdrip_1080p_95738/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/174259/w1500_51739628.jpg", Перл-Харбор
 https://ashdi.vip/video25/3/new4/pearl_harbor_2001_bdrip_1080p_h.265_2xukr_eng_8425/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
-#EXTINF:-1 tvg-logo="", Титанік
+#EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/108983/w1500_2703740.jpg", Титанік
 https://calypso.tortuga.tw/content/stream/films/titanic_1997_bdrip_1080p_h.265_9528/hls/1080/index.m3u8
-#EXTINF:-1 tvg-logo="", Армагеддон
+#EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/109198/w1500_52138236.jpg", Армагеддон
 https://ashdi.vip/video25/3/new3/armageddon.1998.bdrip.1080p.3xukr.eng_14016/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
-#EXTINF:-1 tvg-logo="", Ван Хелсінг
+#EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/266397.jpg", Ван Хелсінг
 https://calypso.tortuga.tw/content/stream/films/van.helsing.2004.bdrip.1080p_13548/hls/1080/index.m3u8
-#EXTINF:-1 tvg-logo="", Велика стіна
+#EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/602000/w1500_52121570.jpg", Велика стіна
 https://calypso.tortuga.tw/content/stream/films/the_great_wall_2016_bdrip_1080p_12985/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="", Гладіатор
 https://calypso.tortuga.tw/content/stream/films/gladiator_2000_extended_cut_bdrip_1080p_91456/hls/1080/index.m3u8
