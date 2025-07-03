@@ -1,5 +1,5 @@
 #EXTM3U refresh="86400"
-#EXTINF:-1 group-title="filmscollection1"
+#EXTINF:-1 group-title="movies"
 
 #EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/261919/w1500_51808982.jpg", Троя
 https://s10.hdvbua.pro/media/content/stream/films/troy_2004_dc_bdrip_1080p_95738/hls/1080/index.m3u8
@@ -98,9 +98,6 @@ https://calypso.tortuga.tw/content/stream/films/goon_last_of_the_enforcers_2017_
 #EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/9415803.jpg", Код Чорна канарка
 https://calypso.tortuga.tw/content/stream/films/canary.black.2024.webdl.1080p.dub_110887/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/11070382.jpg", Під прикриттям
-#EXTVLCOPT:sub-file=https://tortuga.tw/player/subtitle/113291_ua.vtt
-#EXTVLCOPT:sub-language=ukr
-#EXTVLCOPT:sub-track=0
 https://calypso.tortuga.tw/content/stream/films/deep.cover.2025.webdl.1080p.rezka.mvo_113291/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="", 
 
