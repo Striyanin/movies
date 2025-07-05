@@ -79,8 +79,6 @@ https://calypso.tortuga.tw/content/stream/films/cleaner.2025.webdl.1080p.cinemak
 https://calypso.tortuga.tw/content/stream/films/exterritorial.2025.webdl.1080p.ttp.dub_111693/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/10868186.jpg", Джерело вічної молодості
 https://calypso.tortuga.tw/content/stream/films/fountain.of.youth.2025.webdl.1080p.rezka.mvo_112837/hls/1080/index.m3u8
-#EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/2479073.jpg", У загублених землях
-https://calypso.tortuga.tw/content/stream/films/in.the.lost.lands.2025.webdl.1080p.cinemasoundua.dub_111853/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/499853/w1500_2998636.jpg", Мушкетери
 https://calypso.tortuga.tw/content/stream/chest/the_three_musketeers_2011_bdrip_1080p_58081/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://kinoukr.tv/uploads/posts/2020-05/1590935337_poster.jpg", Смертні машини
@@ -111,18 +109,18 @@ https://calypso.tortuga.tw/content/stream/films/starship.troopers.1997.bdrip.108
 https://calypso.tortuga.tw/content/stream/films/white_house_down_2013_bdrip_1080p_h.265_34180/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/1665586/w1500_51607929.jpg", Шестеро поза законом
 https://calypso.tortuga.tw/content/stream/films/6_underground_2019_webrip_1080p_ukr.eng_sub.eng_czkava_deya_45426/hls/1080/index.m3u8
-#EXTINF:-1 tvg-logo="", 
-
-#EXTINF:-1 tvg-logo="", 
-
-#EXTINF:-1 tvg-logo="", 
-
-#EXTINF:-1 tvg-logo="", 
-
-#EXTINF:-1 tvg-logo="", 
-
-#EXTINF:-1 tvg-logo="", 
-
+#EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/1677334.jpg", Форпост
+https://calypso.tortuga.tw/content/stream/chest/the_outpost_2020_bdrip_1080p_58645/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/104427/w1500_51830853.jpg", Водний світ
+https://calypso.tortuga.tw/content/stream/films/waterworld_1995_bdrip_1080p_24059/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/106601.jpg", Скеля
+https://calypso.tortuga.tw/content/stream/films/the.rock.1996.bdrip.1080p_22360/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/355040.jpg", Апокаліпсис
+https://calypso.tortuga.tw/content/stream/films/apocalypto.2006.bdrip.1080p_18056/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/406690.jpg", Зелена зона
+https://calypso.tortuga.tw/content/stream/films/green.zone.2010.bdrip.1080p_17189/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/505888.jpg", Елізіум
+https://calypso.tortuga.tw/content/stream/films/elysium_2013_bdrip_1080p_16873/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="", 
 
 #EXTINF:-1 tvg-logo="", 
