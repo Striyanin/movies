@@ -139,6 +139,14 @@ https://calypso.tortuga.tw/content/stream/films/le_chant_du_loup_2019_bdremux_10
 https://calypso.tortuga.tw/content/stream/films/wonder.woman.2017.bdrip.1080p_2844/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/1627898/w1500_51958450.jpg", Анна
 https://calypso.tortuga.tw/content/stream/films/anna_2019_bdrip_1080p_ukr_eng_video_hurtom_1033/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/1624712/w1500_54768542.jpg", Балерина
+https://calypso.tortuga.tw/content/stream/films/ballerina.2025.webdl.1080p.dub_113397/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8XqjYf4Ysv2Ay8ay5QEzkgkcBbR.jpg", Голови держав
+https://calypso.tortuga.tw/content/stream/films/heads.of.state.2025.webdl.1080p.rezka.mvo_113467/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tI7tcDR5hFtRHDzbECtDLVJi8nO.jpg", Як приборкати дракона
+https://calypso.tortuga.tw/content/stream/films/how.to.train.your.dragon.2025.webdl.1080p.ledoyen.dub_114004/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/poster/400248/w1500_54627740.jpg", Аматор
+https://calypso.tortuga.tw/content/stream/films/the.amateur.2025.webdl.1080p.dub_113116/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="", 
 
 #EXTINF:-1 tvg-logo="", 
@@ -413,10 +421,3 @@ https://calypso.tortuga.tw/content/stream/films/anna_2019_bdrip_1080p_ukr_eng_vi
 
 #EXTINF:-1 tvg-logo="", 
 
-#EXTINF:-1 tvg-logo="", 
-
-#EXTINF:-1 tvg-logo="", 
-
-#EXTINF:-1 tvg-logo="", 
-
-#EXTINF:-1 tvg-logo="", 
