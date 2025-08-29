@@ -221,6 +221,8 @@ https://calypso.tortuga.tw/content/stream/films/the_shawshank_redemption_1994_bd
 https://calypso.tortuga.tw/content/stream/new/the_quick_and_the_dead_1995_bdrip_1080p_53972/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/59908.jpg", Одного разу на Дикому Заході
 https://calypso.tortuga.tw/content/stream/chest/once_upon_a_time_in_the_west_1968_bdrip_1080p_39194/hls/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://ua-images.kinorium.com/movie/1080/514338.jpg", Битва за свободу
+https://calypso.tortuga.tw/content/stream/new/for_greater_glory_the_true_story_of_cristiada_2012_bdrip_1080p_56498/hls/1080/index.m3u8
 #EXTINF:-1 tvg-logo="", 
 
 #EXTINF:-1 tvg-logo="", 
@@ -421,7 +423,6 @@ https://calypso.tortuga.tw/content/stream/chest/once_upon_a_time_in_the_west_196
 
 #EXTINF:-1 tvg-logo="", 
 
-#EXTINF:-1 tvg-logo="", 
 
 
 
